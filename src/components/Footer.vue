@@ -1,6 +1,6 @@
 <template>
   <footer>
-      classe 49
+      <div class="footer2"></div>
   </footer>
 </template>
 

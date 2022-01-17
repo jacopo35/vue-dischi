@@ -1,6 +1,6 @@
 <template>
   <main>
-      gg
+      <div class="contaneir"></div>
   </main>
 </template>
 

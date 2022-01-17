@@ -1,6 +1,6 @@
 <template>
   <header>
-      Rick and morty
+      <div class="logo"></div>
   </header>
 </template>
 
